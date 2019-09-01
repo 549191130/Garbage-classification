@@ -7,10 +7,9 @@ After unzipping the package, you can browse through the WeChat development tool
 
 界面效果
 Effect of interface
+
 ![Image text](https://raw.githubusercontent.com/549191130/Garbage-classification/master/home.png)
-
 ![Image text](https://raw.githubusercontent.com/549191130/Garbage-classification/master/game.png)
-
 ![Image text](https://raw.githubusercontent.com/549191130/Garbage-classification/master/game2.png)
 
 ![Image text](https://raw.githubusercontent.com/549191130/Garbage-classification/master/download.png)
