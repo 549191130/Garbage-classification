@@ -15,5 +15,4 @@ Effect of interface
 
 体验小程序
 Experience applet
-
-![Image text]()
+![Image text](https://raw.githubusercontent.com/549191130/Garbage-classification/master/wechat_code.png)
