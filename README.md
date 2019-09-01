@@ -11,5 +11,9 @@ Effect of interface
 ![Image text](https://raw.githubusercontent.com/549191130/Garbage-classification/master/home.png)
 ![Image text](https://raw.githubusercontent.com/549191130/Garbage-classification/master/game.png)
 ![Image text](https://raw.githubusercontent.com/549191130/Garbage-classification/master/game2.png)
-
 ![Image text](https://raw.githubusercontent.com/549191130/Garbage-classification/master/download.png)
+
+体验小程序
+Experience applet
+
+![Image text]()
